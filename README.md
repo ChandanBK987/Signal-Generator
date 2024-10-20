@@ -3,6 +3,7 @@
 
 # Key Features:
    Waveform Generation: The program can generate three types of waveforms:
+      
       1) Sine Wave
    
       2) Square Wave
