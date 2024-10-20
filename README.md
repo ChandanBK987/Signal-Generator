@@ -18,6 +18,8 @@
   NumPy: For efficient mathematical operations, including waveform calculations.
   
   Matplotlib: For plotting and visualizing the generated waveforms.
+  
+  Scipy: Provides tools and functions for signal processing, including generating waves like sawtooth and triangular waves.
 
   
 
