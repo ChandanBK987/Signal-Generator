@@ -12,3 +12,10 @@ time = np.linspace(0, 2 * time_period, int(sampling_rate))  # Time values
 # Generating the triangular wave
 triangular_wave = amplitude * signal.sawtooth(2 * np.pi * frequency * time, 0.5)
 
+# Plotting the triangular wave
+plt.plot(time, triangular_wave)
+plt.title('Triangular Wave')
+plt.xlabel('Time [s]')
+plt.ylabel('Amplitude')
+plt.grid(True)
+plt.show()
